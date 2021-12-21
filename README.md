@@ -6,4 +6,4 @@ We explore the capabilities and limits of large language models in the case of s
 
 Limericks Colab here -> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Rr4F4XSNZhC1jOVnUWHa0a3e9cQhEVvx?usp=sharing)
 
-Haiku Colab Here -> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg](https://colab.research.google.com/drive/1dY9eVMSHkeReJaDfl3YoQJG66DZxybcG#scrollTo=aeXshJM-Cuaf)
+Haiku Colab Here -> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dY9eVMSHkeReJaDfl3YoQJG66DZxybcG#scrollTo=aeXshJM-Cuaf)
